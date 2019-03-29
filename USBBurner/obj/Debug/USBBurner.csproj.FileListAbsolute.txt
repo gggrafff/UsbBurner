@@ -1,0 +1,9 @@
+D:\Projects\USBBurner\USBBurner\bin\Debug\USBBurner.exe.config
+D:\Projects\USBBurner\USBBurner\bin\Debug\USBBurner.exe
+D:\Projects\USBBurner\USBBurner\bin\Debug\USBBurner.pdb
+D:\Projects\USBBurner\USBBurner\obj\Debug\USBBurner.csprojResolveAssemblyReference.cache
+D:\Projects\USBBurner\USBBurner\obj\Debug\USBBurner.Form1.resources
+D:\Projects\USBBurner\USBBurner\obj\Debug\USBBurner.Properties.Resources.resources
+D:\Projects\USBBurner\USBBurner\obj\Debug\USBBurner.csproj.GenerateResource.Cache
+D:\Projects\USBBurner\USBBurner\obj\Debug\USBBurner.exe
+D:\Projects\USBBurner\USBBurner\obj\Debug\USBBurner.pdb

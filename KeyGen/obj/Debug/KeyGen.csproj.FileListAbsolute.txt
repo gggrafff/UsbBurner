@@ -1,0 +1,9 @@
+D:\Projects\USBBurner\KeyGen\bin\Debug\KeyGen.exe.config
+D:\Projects\USBBurner\KeyGen\bin\Debug\KeyGen.exe
+D:\Projects\USBBurner\KeyGen\bin\Debug\KeyGen.pdb
+D:\Projects\USBBurner\KeyGen\obj\Debug\KeyGen.csprojResolveAssemblyReference.cache
+D:\Projects\USBBurner\KeyGen\obj\Debug\KeyGen.Form1.resources
+D:\Projects\USBBurner\KeyGen\obj\Debug\KeyGen.Properties.Resources.resources
+D:\Projects\USBBurner\KeyGen\obj\Debug\KeyGen.csproj.GenerateResource.Cache
+D:\Projects\USBBurner\KeyGen\obj\Debug\KeyGen.exe
+D:\Projects\USBBurner\KeyGen\obj\Debug\KeyGen.pdb

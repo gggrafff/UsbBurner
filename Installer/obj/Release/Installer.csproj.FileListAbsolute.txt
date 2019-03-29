@@ -1,0 +1,9 @@
+D:\Projects\USBBurner\Installer\bin\Release\Installer.exe.config
+D:\Projects\USBBurner\Installer\bin\Release\Installer.exe
+D:\Projects\USBBurner\Installer\bin\Release\Installer.pdb
+D:\Projects\USBBurner\Installer\obj\Release\Installer.csprojResolveAssemblyReference.cache
+D:\Projects\USBBurner\Installer\obj\Release\Installer.Form1.resources
+D:\Projects\USBBurner\Installer\obj\Release\Installer.Properties.Resources.resources
+D:\Projects\USBBurner\Installer\obj\Release\Installer.csproj.GenerateResource.Cache
+D:\Projects\USBBurner\Installer\obj\Release\Installer.exe
+D:\Projects\USBBurner\Installer\obj\Release\Installer.pdb
